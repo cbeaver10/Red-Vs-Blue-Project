@@ -131,7 +131,8 @@ The Hyper-V Manager to access the nested machines:
 
 #### Special thanks:
 
-© Trilogy Education Services, a 2U, Inc.,
+© Trilogy Education Services, a 2U, Inc.
+
 © The Vanderbilt University Boot Camp, Cybersecurity program.
 
 ---
