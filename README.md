@@ -1,6 +1,3 @@
-# Red-Vs-Blue-Project
-<img align="center" width="1220" height="410" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Red-teaming-blue-teaming-1.jpg">
-
 # Red Vs. Blue Team Project 
 
 ### Unit Description
@@ -109,7 +106,7 @@ As Blue Team, we will use Kibana to review logs taken during their Day 1 engagem
 
 The Hyper-V Manager to access the nested machines:
 
-- **ELK machine credentials:** The same ELK setup that we created in Project [ELK-Stack-Project](https://github.com/Diablo5G/ELK-Stack-Project).
+- **ELK machine credentials:** The same ELK setup that we created in Project [ELK-Stack-Project](https://github.com/cbeaver10/Elk-Stack-Project-1).
     - Username: `vagrant`
     - Password: `vagrant`
     - IP Address: `192.168.1.100`
@@ -122,8 +119,6 @@ The Hyper-V Manager to access the nested machines:
 - **Capstone:** Filebeat and Metricbeat are installed and will forward logs to the ELK machine. 
    - IP Address: `192.168.1.105`
 
-
-<img align="left" width="80" height="70" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/redblue.jpeg">
 
 
 
